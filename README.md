@@ -35,6 +35,6 @@ Whether you're working on wearables, robotics, autonomous systems, or IoT device
 ## 🔧 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/Q-Fuse.git
+git clone https://github.com/Lalithav/Q-Fuse.git
 cd Q-Fuse
 make run   # or cmake build instructions
